@@ -43,7 +43,7 @@ Here's just the badge, as ANSI escapes:
 
 It renders as:
 
-![example ANSI/terminal badge rendering](https://github.com/user-attachments/assets/e520c39b-988c-45dc-a555-553b713f2f57)
+![example ANSI/terminal badge rendering](https://github.com/user-attachments/assets/89e1497e-8395-436e-a0b8-51beb88f9350)
 
 ## Spread the word
 
@@ -54,7 +54,7 @@ the "free of syn" campaign with a badge:
 [![free of syn](https://img.shields.io/badge/free%20of-syn-hotpink)](https://github.com/fasterthanlime/free-of-syn)
 ```
 
-![example badge rendering in the shapely readme](https://github.com/user-attachments/assets/7148db83-10aa-4339-8537-fed3fe56d13d)
+![example badge rendering in the shapely readme](https://github.com/user-attachments/assets/f2d240f5-d793-47d8-8987-aa6121a2abad)
 
 ## Hall of fame
 
