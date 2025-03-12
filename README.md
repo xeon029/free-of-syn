@@ -22,18 +22,8 @@ parsers without heavy dependencies.
 
 ## Enforce it in CI
 
-To make sure your crate is free of syn, add the following bit of bash
-to your CI pipeline:
-
-```bash
-if ! cargo tree -i syn 2>/dev/null | grep -q .; then
-echo -e "\033[38;2;255;255;255;48;2;0;0;0m free of \033[38;2;255;255;255;48;2;255;105;180m syn \033[38;2;255;255;255;48;2;0;0;0m\033[0m"
-else
-  echo -e "\033[1;31m❌ 'syn' found in dependency tree. Here's what's using 'syn':\033[0m"
-  cargo tree -i syn -e features
-  exit 1
-fi
-```
+To make sure your crate is free of syn, run the provided `absolve.sh` script
+in your CI pipeline.
 
 Here's just the badge, as ANSI escapes:
 
@@ -44,6 +34,9 @@ Here's just the badge, as ANSI escapes:
 It renders as:
 
 ![example ANSI/terminal badge rendering](https://github.com/user-attachments/assets/89e1497e-8395-436e-a0b8-51beb88f9350)
+
+Alternatively, the [`cargo-deny`](https://github.com/EmbarkStudios/cargo-deny)
+plugin lets you ban arbitrary crates.
 
 ## Spread the word
 
