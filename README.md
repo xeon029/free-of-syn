@@ -53,5 +53,5 @@ the "free of syn" campaign with a badge:
 
 These projects are free of syn (submit a PR to add yours):
 
-  * [shapely](https://github.com/bearcove/shapely) is a reflection and serialization/deserialization framework for Rust
+  * [facet](https://github.com/facet-rs/facet) is a reflection and serialization/deserialization framework for Rust
   * [xmacro/xmacro_lib](https://docs.rs/xmacro_lib/latest/xmacro_lib/) Proc-Macro engine for templating rust code
