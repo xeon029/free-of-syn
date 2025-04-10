@@ -1,4 +1,5 @@
-#!/bin/bash -euo pipefail
+#!/usr/bin/env bash
+set -euo pipefail
 
 # Check if any dependency is present in the tree
 if ! cargo tree --format "none_of_you_are_free_of_{p}" 2>/dev/null | grep -q "none_of_you_are_free_of_"; then
