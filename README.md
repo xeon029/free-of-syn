@@ -33,7 +33,7 @@ Here's just the badge, as ANSI escapes:
 
 It renders as:
 
-![example ANSI/terminal badge rendering](https://github.com/user-attachments/assets/89e1497e-8395-436e-a0b8-51beb88f9350)
+![example ANSI/terminal badge rendering](https://github.com/user-attachments/assets/67477769-7050-466b-ac03-9477349d50c7)
 
 Alternatively, the [`cargo-deny`](https://github.com/EmbarkStudios/cargo-deny)
 plugin lets you ban arbitrary crates.
@@ -47,7 +47,7 @@ the "free of syn" campaign with a badge:
 [![free of syn](https://img.shields.io/badge/free%20of-syn-hotpink)](https://github.com/fasterthanlime/free-of-syn)
 ```
 
-![example badge rendering in the shapely readme](https://github.com/user-attachments/assets/f2d240f5-d793-47d8-8987-aa6121a2abad)
+![example badge rendering in the facet readme](https://github.com/user-attachments/assets/e2b66ad5-04cd-430b-b30c-68201149e9a8)
 
 ## Hall of fame
 
