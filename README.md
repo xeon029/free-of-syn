@@ -56,3 +56,4 @@ These projects are free of syn (submit a PR to add yours):
   * [facet](https://github.com/facet-rs/facet) is a reflection and serialization/deserialization framework for Rust
   * [xmacro/xmacro_lib](https://docs.rs/xmacro_lib/latest/xmacro_lib/) Proc-Macro engine for templating rust code
   * [mident](https://github.com/ArcaneNibble/mident) is a toolbox for creating and manipulating identifiers in declarative macros
+  * [eager2](https://github.com/Daniel-Aaron-Bloom/eager2) is a framework for eager macro expansion
